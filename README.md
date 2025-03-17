@@ -25,7 +25,7 @@ No meu GitHub, você encontrará projetos voltados para análise de dados, desen
 
 Meu objetivo é atuar como **Full-Stack BI Analyst**, utilizando minha experiência para criar soluções que **transformem dados em decisões estratégicas**. Estou em busca de novos desafios, projetos colaborativos e oportunidades de **crescimento profissional**.
 
-
+---
 
 ## About Me
 
@@ -52,4 +52,4 @@ On my GitHub, you'll find projects focused on data analysis, web development, an
 
 ## Objective
 
-My goal is to work as a **Full-Stack BI Analyst**, leveraging my experience to create solutions that **transform data into strategic decisions**. I am seeking new challenges, collaborative projects, and opportunities for **professional growth**.
+My objective is to work as a **Full-Stack BI Analyst**, leveraging my experience to create solutions that **transform data into strategic decisions**. I am seeking new challenges, collaborative projects, and opportunities for **professional growth**.
