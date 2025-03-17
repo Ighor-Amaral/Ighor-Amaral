@@ -1,43 +1,55 @@
-# Sobre Mim  
+## Sobre Mim
 
-**Movido pelo aprendizado contínuo** e pela **inovação em tecnologia**, sou apaixonado por **transformar dados em estratégias eficientes** e **impulsionar melhorias significativas para os negócios**. Atualmente, sou estagiário na **dsm-firmenich**, onde aplico minhas habilidades em **Python**, **Excel**, **Power BI**, **Dynamics 365**, além de uma sólida base em **hardware**, **sistemas operacionais (Windows e Linux)**, **SQL**, **Cloud** e **infraestrutura de redes** para gerar insights e otimizar processos.  
+Movido por **tecnologia, inovação** e pelo **aprendizado contínuo**, com foco em transformar dados em **soluções estratégicas** que geram impacto real. Busco sempre utilizar as melhores práticas de desenvolvimento para criar **soluções robustas**, escaláveis e eficientes.
 
-Minhas principais contribuições incluem:  
-- **Desenvolvimento de ferramentas e soluções para otimização de processos**  
-- **Recuperação de vendas e análise de dados estratégicos**  
-- **Implementação de novas ferramentas com foco na melhoria da eficiência operacional**  
-- **Colaboração no desenvolvimento de soluções que impactam diretamente a equipe**  
+Atualmente, sou estagiário na área de **Sales – Health, Nutrition & Care** na **DSM-Firmenich**, onde tenho a oportunidade de aplicar minhas habilidades em **Python**, **Power BI** e **Excel** para otimizar processos e gerar insights valiosos.
 
-Atualmente, estou atuando na área de **Sales – Health, Nutrition & Care**, liderando iniciativas que visam aprimorar a análise de dados e gerar impacto direto nos processos da área. Estou no último semestre de **Análise e Desenvolvimento de Sistemas** e possuo certificações em **Oracle Cloud**, **Power BI** e **Arquitetura de Redes**.  
+Minhas contribuições incluem:
+- **Desenvolvimento de ferramentas para otimização de processos**
+- **Análise de dados estratégicos** para apoio a decisões de vendas
+- **Implementação de novas tecnologias** para melhorar a eficiência operacional
+- **Colaboração em projetos de inovação tecnológica** com impacto direto no time
 
-## Ferramentas e Tecnologias  
+## Ferramentas e Tecnologias
+
 - **Linguagens**: Python, SQL  
 - **BI**: Power BI, Excel  
 - **Desenvolvimento Web**: HTML, CSS, JavaScript  
-- **Cloud e Infraestrutura**: Oracle Cloud, Redes, Linux, Windows  
+- **Cloud e Infraestrutura**: Oracle Cloud, Linux, Windows, Redes
 
-## Objetivo  
-Meu foco profissional é atuar como **Full-Stack BI Analyst**, aprofundando constantemente meus conhecimentos em tecnologias que permitem a criação de **soluções robustas** e **escaláveis**. Busco sempre desafios que me permitam crescer e aplicar meus conhecimentos de forma estratégica, colaborando com equipes diversas para desenvolver **soluções inovadoras**.
+## Projetos
 
----
+No meu GitHub, você encontrará projetos voltados para análise de dados, desenvolvimento web e automação de processos, com ênfase em soluções práticas e eficientes.
 
-# About Me  
+## Objetivo
 
-**Driven by continuous learning** and **innovation in technology**, I am passionate about **transforming data into efficient strategies** and **driving significant improvements for businesses**. Currently, I’m an intern at **dsm-firmenich**, where I apply my skills in **Python**, **Excel**, **Power BI**, **Dynamics 365**, along with a solid foundation in **hardware**, **operating systems (Windows and Linux)**, **SQL**, **Cloud**, and **network infrastructure** to generate insights and optimize processes.  
+Meu objetivo é atuar como **Full-Stack BI Analyst**, utilizando minha experiência para criar soluções que **transformem dados em decisões estratégicas**. Estou em busca de novos desafios, projetos colaborativos e oportunidades de **crescimento profissional**.
 
-My key contributions include:  
-- **Developing tools and solutions for process optimization**  
-- **Sales recovery and strategic data analysis**  
-- **Implementing new tools with a focus on operational efficiency**  
-- **Collaborating on developing solutions that directly impact the team**  
 
-I am currently working in the **Sales – Health, Nutrition & Care** area, leading initiatives aimed at improving data analysis and generating a direct impact on the area's processes. I am in my final semester of **Systems Analysis and Development** and hold certifications in **Oracle Cloud**, **Power BI**, and **Network Architecture**.  
 
-## Tools and Technologies  
+## About Me
+
+Driven by **technology, innovation**, and **continuous learning**, with a focus on transforming data into **strategic solutions** that make a real impact. I always strive to apply best development practices to create **robust**, **scalable**, and **efficient solutions**.
+
+Currently, I am an intern in the **Sales – Health, Nutrition & Care** department at **DSM-Firmenich**, where I have the opportunity to apply my skills in **Python**, **Power BI**, and **Excel** to optimize processes and generate valuable insights.
+
+My contributions include:
+- **Developing tools to optimize processes**
+- **Analyzing strategic data** to support sales decision-making
+- **Implementing new technologies** to improve operational efficiency
+- **Collaborating on technological innovation projects** with direct impact on the team
+
+## Tools and Technologies
+
 - **Languages**: Python, SQL  
 - **BI**: Power BI, Excel  
 - **Web Development**: HTML, CSS, JavaScript  
-- **Cloud and Infrastructure**: Oracle Cloud, Networks, Linux, Windows  
+- **Cloud and Infrastructure**: Oracle Cloud, Linux, Windows, Networks
 
-## Objective  
-My professional focus is to work as a **Full-Stack BI Analyst**, constantly deepening my knowledge in technologies that enable the creation of **robust** and **scalable** solutions. I am always looking for challenges that allow me to grow and apply my knowledge strategically, collaborating with diverse teams to develop **innovative solutions**.
+## Projects
+
+On my GitHub, you'll find projects focused on data analysis, web development, and process automation, with an emphasis on practical and efficient solutions.
+
+## Objective
+
+My goal is to work as a **Full-Stack BI Analyst**, leveraging my experience to create solutions that **transform data into strategic decisions**. I am seeking new challenges, collaborative projects, and opportunities for **professional growth**.
