@@ -1,14 +1,15 @@
 ## Sobre Mim
 
-Movido por **tecnologia, inovação** e pelo **aprendizado contínuo**, com foco em transformar dados em **soluções estratégicas** que geram impacto real. Busco sempre utilizar as melhores práticas de desenvolvimento para criar **soluções robustas**, escaláveis e eficientes.
+Movido por **tecnologia, inovação** e pelo **aprendizado contínuo**, com foco em transformar dados em **soluções estratégicas** que geram impacto real. Busco sempre aplicar as melhores práticas para desenvolver **soluções robustas**, escaláveis e eficientes.
 
-Atualmente, sou estagiário na área de **Sales – Health, Nutrition & Care** na **DSM-Firmenich**, onde tenho a oportunidade de aplicar minhas habilidades em **Python**, **Power BI** e **Excel** para otimizar processos e gerar insights valiosos.
+Atualmente, atuo como **PMO Assistant na DSM-Firmenich**, contribuindo com iniciativas voltadas à **automação de processos**, **gestão de indicadores**, **criação de dashboards** e **análise de dados**, gerando insights e promovendo a eficiência operacional.
 
 Minhas contribuições incluem:
-- **Desenvolvimento de ferramentas para otimização de processos**
-- **Análise de dados estratégicos** para apoio a decisões de vendas
-- **Implementação de novas tecnologias** para melhorar a eficiência operacional
-- **Colaboração em projetos de inovação tecnológica** com impacto direto no time
+- **Desenvolvimento de soluções em Python** para automação e integração de dados (ETL)
+- **Criação e manutenção de dashboards em Power BI**
+- **Análises estratégicas de dados** para suporte à tomada de decisão
+- **Apoio na governança de projetos e gestão de KPIs**
+- **Participação em iniciativas de inovação e melhoria contínua**
 
 ## Ferramentas e Tecnologias
 
@@ -19,7 +20,7 @@ Minhas contribuições incluem:
 
 ## Projetos
 
-No meu GitHub, você encontrará projetos voltados para análise de dados, desenvolvimento web e automação de processos, com ênfase em soluções práticas e eficientes.
+No meu GitHub, você encontrará projetos voltados para **análise de dados**, **automação de processos** e **desenvolvimento web**, com foco em eficiência, escalabilidade e aplicabilidade no ambiente corporativo.
 
 ## Objetivo
 
@@ -29,15 +30,16 @@ Meu objetivo é atuar como **Full-Stack BI Analyst**, utilizando minha experiên
 
 ## About Me
 
-Driven by **technology, innovation**, and **continuous learning**, with a focus on transforming data into **strategic solutions** that make a real impact. I always strive to apply best development practices to create **robust**, **scalable**, and **efficient solutions**.
+Driven by **technology, innovation**, and **continuous learning**, with a focus on transforming data into **strategic solutions** that drive real impact. I apply best practices to build **robust**, **scalable**, and **efficient solutions**.
 
-Currently, I am an intern in the **Sales – Health, Nutrition & Care** department at **DSM-Firmenich**, where I have the opportunity to apply my skills in **Python**, **Power BI**, and **Excel** to optimize processes and generate valuable insights.
+Currently, I work as a **PMO Assistant at DSM-Firmenich**, contributing to **process automation**, **KPI management**, **dashboard development**, and **data analysis**, helping to generate insights and enhance operational efficiency.
 
 My contributions include:
-- **Developing tools to optimize processes**
-- **Analyzing strategic data** to support sales decision-making
-- **Implementing new technologies** to improve operational efficiency
-- **Collaborating on technological innovation projects** with direct impact on the team
+- **Building Python-based tools** for automation and data integration (ETL)
+- **Designing and maintaining Power BI dashboards**
+- **Delivering strategic data insights** to support decision-making
+- **Supporting project governance and KPI tracking**
+- **Collaborating on continuous improvement and innovation initiatives**
 
 ## Tools and Technologies
 
@@ -48,8 +50,8 @@ My contributions include:
 
 ## Projects
 
-On my GitHub, you'll find projects focused on data analysis, web development, and process automation, with an emphasis on practical and efficient solutions.
+On my GitHub, you’ll find projects focused on **data analysis**, **process automation**, and **web development**, with an emphasis on efficient, scalable, and business-oriented solutions.
 
 ## Objective
 
-My objective is to work as a **Full-Stack BI Analyst**, leveraging my experience to create solutions that **transform data into strategic decisions**. I am seeking new challenges, collaborative projects, and opportunities for **professional growth**.
+My goal is to work as a **Full-Stack BI Analyst**, leveraging my experience to develop solutions that **turn data into strategic decisions**. I’m seeking new challenges, collaborative projects, and opportunities for **professional growth**.
