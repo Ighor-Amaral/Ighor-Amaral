@@ -4,7 +4,7 @@ Tenho perfil técnico com visão estratégica, conectando equipes, processos e s
 
 **Principais competências técnicas:**
 
-- Python (Pandas, NumPy, OpenPyXL, ThreadPoolExecutor, etc)
+- Python
 - SQL
 - Power BI e Qlik
 - Excel avançado e automações
